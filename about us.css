@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #0a0af5;
+    background-image: url(mini-cupcakes-1200x1200-1.jpg);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: blue;
+}
+
+header {
+    background-color: hsl(40, 37%, 97%);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: right;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #580254;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+section {
+    margin: 2rem;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #061986;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.field {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradstyugfdient(blue, black, red, green, yellow);
+    color: #fff;
+    width: 900px;
+    height: 15px;
+    border-radius: 10%;
+    margin-top: 90px;
+    margin-left: 200px;
+}

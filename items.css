@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/cake.jpg");
+    background-color: #8b2121;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: none;
+    font-size: 30px;
+}
+
+.header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 16px;
+    color: #888;
+    margin-top: 5px;
+}
+
+.content {
+    width: 100%;
+    max-width: 800pt;
+    margin: 20pt;
+    height: 100pt;
+}
+
+.Contact {}
